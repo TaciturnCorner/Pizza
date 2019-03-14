@@ -1,0 +1,69 @@
+.bl-labelNum {
+    font-size: 100%;
+    color: black;
+    background: white;
+    margin-top:5px;
+    width: 10px;
+}
+
+.bl-labelPrice {
+    font-size: 100%;
+    color: black;
+    background: white;
+    margin-top:5px;
+    width: 10px;
+}
+.bt-minus{
+     border-radius: 100%;
+}
+
+.bt-plus{
+    border-radius: 100%;
+}
+
+.bt-x{
+    border-radius: 100%;
+}
+
+.bl-labDiamB{
+    margin-left: 35px;
+}
+
+.bl-labWeightB{
+    margin-left: 30px;
+}
+
+.bl-labPriceB{
+    font-size: 150%;
+    margin-left: 20px;
+}
+
+.bl-labDiamS{
+    margin-left: 20px;
+}
+
+.bl-labWeightS{
+    margin-left: 20px;
+}
+
+.bl-labPriceS{
+    font-size: 150%;
+    margin-left: 15px;
+
+}
+
+.mainMenu{
+    font-size: 200%;
+    position: relative;
+    padding: .1em 1em calc(.1em + 2px);
+    text-decoration: none;
+    color: white;
+    background: black;
+    height: 45px;
+    transition:	all	1s	ease;
+}
+
+.numb{
+    font-size: 70%;
+    margin-left: 20px;
+}
